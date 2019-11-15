@@ -24,5 +24,7 @@ return answer
 end
 
 def square_root(num)
-
+answer = Math.sqrt(num)
+return answer
 end
+
