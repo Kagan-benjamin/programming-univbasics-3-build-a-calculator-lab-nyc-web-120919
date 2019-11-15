@@ -4,7 +4,8 @@ return answer
 end
 
 def subtraction(num1, num2)
-
+answer = (num1 - num2)
+return answer
 end
 
 def division(num1, num2)
